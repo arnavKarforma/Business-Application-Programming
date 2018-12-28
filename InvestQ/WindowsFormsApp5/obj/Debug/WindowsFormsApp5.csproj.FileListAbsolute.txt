@@ -1,0 +1,12 @@
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.DisplayDetails.resources
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Summary_page.resources
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\ARNAV\source\repos\InvestQ\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HomeForm.resources
