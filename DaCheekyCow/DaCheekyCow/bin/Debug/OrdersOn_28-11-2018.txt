@@ -1,0 +1,9 @@
+Transc. No. :- ed775d5d1e1546b9a305b7b55deef991
+[MealName:- Irish Stew, MealSize:- Cúchulainn, Quantity:- 1, TotalPrice:- 7.52]
+[MealName:- Full Irish, MealSize:- Child, Quantity:- 1, TotalPrice:- 5.69]
+[MealName:- Full Irish, MealSize:- Child, Quantity:- 1, TotalPrice:- 5.69]
+[MealName:- Full Irish, MealSize:- Child, Quantity:- 1, TotalPrice:- 5.69]
+Total Bill:- €24.59
+Transc. No. :- e8b060fac22c46de8fea3ecc4841049f
+[MealName:- Irish Grill, MealSize:- Child, Quantity:- 3, TotalPrice:- 8.70]
+Total Bill:- €8.70

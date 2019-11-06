@@ -1,0 +1,8 @@
+Transc. No. :- 98355c0bb5564fbea6fe99572001ba22
+[MealName:- Irish Grill, MealSize:- Child, Quantity:- 1, TotalPrice:- 2.90]
+[MealName:- Bacon & Cabbage, MealSize:- Cúchulainn, Quantity:- 1, TotalPrice:- 5.25]
+Total Bill:- €8.15
+Transc. No. :- 672236e814b340709128461045ad5bb1
+[MealName:- Irish Stew, MealSize:- Student, Quantity:- 1, TotalPrice:- 6.51]
+[MealName:- Boxty Special, MealSize:- Cúchulainn, Quantity:- 1, TotalPrice:- 6.08]
+Total Bill:- €12.59
